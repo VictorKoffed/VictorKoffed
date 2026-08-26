@@ -1,4 +1,4 @@
-# Hej, jag är Victor Koffed! 👋
+# Hej, jag är Victor Koffed!
 
 **Junior systemutvecklare | C#/.NET | React | Python | AI/RAG**
 
@@ -10,7 +10,7 @@ Jag tycker om att förstå hur saker fungerar och att prova olika sätt att lös
 
 Min tidigare erfarenhet som kriminalvårdare har också påverkat hur jag arbetar. Jag är van vid att vara lugn, noggrann och strukturerad även i situationer där förutsättningarna snabbt kan förändras. Det är något jag tar med mig även när jag utvecklar mjukvara.
 
-🌍 Jag är öppen för juniora utvecklarroller och flexibel när det gäller ort för rätt möjlighet.
+Jag är öppen för juniora utvecklarroller och flexibel när det gäller ort för rätt möjlighet.
 
 ---
 
@@ -46,7 +46,7 @@ Min tidigare erfarenhet som kriminalvårdare har också påverkat hur jag arbeta
 
 ---
 
-### 📫 Kontakt
+### Kontakt
 
 - **Email:** wictorkoffed@gmail.com
 - **LinkedIn:** [linkedin.com/in/victor-koffed-1645643b6](https://www.linkedin.com/in/victor-koffed-1645643b6)
@@ -54,7 +54,7 @@ Min tidigare erfarenhet som kriminalvårdare har också påverkat hur jag arbeta
 
 ---
 
-### 👨‍💻 Mina projekt
+### Mina projekt
 
 Ta gärna en titt på mina pinnade repositories nedanför. Där finns några av de projekt jag har arbetat med under utbildningen och på fritiden.
 
