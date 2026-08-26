@@ -4,7 +4,7 @@
 
 I’m a newly graduated software developer from University West, looking for a role as a junior software or full-stack developer.
 
-I especially enjoy building things, trying out new ideas, and learning along the way. During my studies, I worked extensively with C#/.NET, databases, and frontend development, while my personal projects have also given me the opportunity to explore Python, AI/RAG, Kotlin, and Android development.
+I especially enjoy building things, trying out new ideas, and learning along the way. During my studies, I worked extensively with C#/.NET, databases, and frontend development, while my personal projects have also given me the opportunity to explore Python, AI/RAG, Kotlin, and Android development. Beyond writing code, I run my own homelab where I self-host services and experiment with local AI models using Linux and Docker.
 
 I like understanding how things work and exploring different ways to solve problems rather than always choosing the first solution that works.
 
