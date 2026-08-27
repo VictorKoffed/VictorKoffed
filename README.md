@@ -3,6 +3,8 @@
 </div>
 
 
+
+
 **Junior Software Developer | C#/.NET | React | Python | AI/RAG**
 
 I’m a newly graduated software developer from University West, looking for a role as a junior software or full-stack developer.
