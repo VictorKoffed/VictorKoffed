@@ -1,7 +1,7 @@
 # Hi, I'm Victor Koffed!
 
 <div align="center">
-  <img src="images/logobanner.png" width="100%" alt="VR Demo: Space">
+  <img src="images/logobanner.png" width="100%" alt="VictorKoffed">
 </div>
 
 
