@@ -6,15 +6,21 @@
 
 **Junior Software Developer | C#/.NET | React | Python | AI/RAG**
 
-I’m a newly graduated software developer from University West, looking for a role as a junior software or full-stack developer.
+I’m a software developer with a recent degree from University West, specializing in full-stack and backend architecture. My previous career as a correctional officer taught me how to stay calm, precise, and structured in fast-changing situations—traits I now bring to complex problem-solving in software development.
 
-I especially enjoy building things, trying out new ideas, and learning along the way. During my studies, I worked extensively with C#/.NET, databases, and frontend development, while my personal projects have also given me the opportunity to explore Python, AI/RAG, Kotlin, and Android development. Beyond writing code, I run my own homelab where I self-host services and experiment with local AI models using Linux and Docker.
+I don't just look for the first solution that works; I dive deep to understand the underlying mechanics to build scalable and secure systems.
 
-I like understanding how things work and exploring different ways to solve problems rather than always choosing the first solution that works.
+What I'm currently working on & exploring:
 
-My previous experience as a correctional officer has also influenced the way I work. I’m used to staying calm, precise, and structured even in situations where circumstances can change quickly. That’s something I bring with me when developing software as well.
+- 💻 Building full-stack applications using C#/.NET and React.
 
-I’m open to junior developer roles and flexible when it comes to location for the right opportunity.
+- 🤖 Experimenting with local LLMs and RAG architectures in Python.
+
+- 🖥️ Running a personal homelab, self-hosting services via Linux and Docker.
+
+- 📱 Exploring mobile architecture with Kotlin and Jetpack Compose.
+
+Open to developer roles and flexible on location for the right opportunity
 
 ---
 
