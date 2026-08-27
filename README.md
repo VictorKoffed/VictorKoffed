@@ -2,9 +2,9 @@
   <img src="images/logobanner_v3.png" width="100%" alt="VictorKoffed">
 </div>
 
-**Junior Software Developer | C#/.NET | React | Python | AI/RAG**
-
 ---
+
+**Junior Software Developer | C#/.NET | React | Python | AI/RAG**
 
 I’m a newly graduated software developer from University West, looking for a role as a junior software or full-stack developer.
 
