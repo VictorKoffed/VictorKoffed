@@ -2,8 +2,7 @@
   <img src="images/logobanner.jpg" width="100%" alt="VictorKoffed">
 </div>
 
-
-
+---
 
 **Junior Software Developer | C#/.NET | React | Python | AI/RAG**
 
