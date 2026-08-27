@@ -1,5 +1,10 @@
 # Hi, I'm Victor Koffed!
 
+<div align="center">
+  <img src="images/logobanner.png" width="100%" alt="VR Demo: Space">
+</div>
+
+
 **Junior Software Developer | C#/.NET | React | Python | AI/RAG**
 
 I’m a newly graduated software developer from University West, looking for a role as a junior software or full-stack developer.
