@@ -8,9 +8,9 @@
 
 ---
 
-I’m a software developer with a recent degree from University West, specializing in full-stack and backend architecture. My previous career as a correctional officer taught me how to stay calm, precise, and structured in fast-changing situations—traits I now bring to complex problem-solving in software development.
+I’m a software developer with a recent degree from University West, specializing in full-stack and backend architecture. My previous career as a correctional officer taught me how to stay calm, precise, and structured in fast changing situations, traits I now bring to complex problem-solving in software development.
 
-I don't just look for the first solution that works; I dive deep to understand the underlying mechanics to build scalable and secure systems.
+I don't just look for the first solution that works, I dive deep to understand the underlying mechanics to build scalable and secure systems.
 
 What I'm currently working on & exploring:
 
