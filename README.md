@@ -4,7 +4,7 @@
 
 ---
 
-**Junior Software Developer | C#/.NET | React | Python | AI/RAG**
+**Software Developer | C#/.NET | React | Python | AI/RAG**
 
 ---
 
